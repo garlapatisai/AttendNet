@@ -93,6 +93,5 @@ Cloud database integration (Firebase/AWS)
 Real-time analytics dashboard
 Upgrade to advanced models like FaceNet or DeepFace
 👨‍💻 Author
-
-K.P. Thrived Reddy
+GARLAPATI SAI KRISHNA
 B.Tech – Artificial Intelligence & Machine Learning
