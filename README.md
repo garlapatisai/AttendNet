@@ -48,14 +48,15 @@ OpenCV
 NumPy
 
 Deployment
-
 Hugging Face Spaces
+
 📂 Dataset
 Custom dataset of registered individuals
 Preprocessing steps include:
 Face alignment
 Image normalization
 Noise reduction
+
 🚀 Key Features
 Real-time face recognition
 Multi-face detection in a single frame
@@ -63,28 +64,28 @@ Temporal validation for improved reliability
 Web-based interface (device-independent access)
 Cloud deployment for scalability
 High accuracy (~96%)
+
 📊 Performance Metrics
 Metric	Value
 Accuracy	~96%
 Processing	Real-time
 Multi-user Support	Yes
 False Positives	Reduced via temporal filtering
+
 ⚠️ Challenges and Solutions
 Challenge	Approach
 False recognition	Temporal validation across frames
 Lighting variations	Robust embedding generation
 Multiple faces	Parallel face detection
 Processing latency	Frame optimization
+
 🌐 Deployment Details
-
 The application is deployed on a cloud platform using Hugging Face Spaces, ensuring:
-
 Remote accessibility
 Zero local installation requirement
 Easy updates and maintenance
 
-🔗 Access the system:
-https://reddythrived-attendnet.hf.space
+
 
 🔮 Future Scope
 Integration with mobile platforms
@@ -92,6 +93,8 @@ Advanced anti-spoofing mechanisms
 Cloud database integration (Firebase/AWS)
 Real-time analytics dashboard
 Upgrade to advanced models like FaceNet or DeepFace
+
+
 👨‍💻 Author
 GARLAPATI SAI KRISHNA
 B.Tech – Artificial Intelligence & Machine Learning
